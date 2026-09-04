@@ -1,15 +1,14 @@
 {
-    "data": {
-        "items": [
-            {
-                "devicetype": "FOC",
-                "hasnew": true,
-                "version": "K3E38J23",
-                "date": "1659087825001",
-                "size": "27196",
-                "url": "https://github.com/scooterhacking/niu_scooters/raw/main/KQI3/Pro/DE/OTA_NIU_K3E38J23_20KPH_Pro_220718.bin",
-                "md5": "8f8eb8d11305fae72fc9bca922a6e491"
-            }
-        ]
+  "scooter": "KQI3",
+  "model": "Pro",
+  "region": "EU",
+  "version": "K3C01V20",
+  "files": [
+    {
+      "type": "DRV",
+      "version": "K3C01V20",
+      "filename": "K3C01V20.bin",
+      "md5": "e9c13b2a5f7d4e6b8c3a1f9e0b2c4d6a"
     }
+  ]
 }
